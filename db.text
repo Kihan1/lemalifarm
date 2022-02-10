@@ -1,0 +1,2 @@
+go to xampp and then create a new database called "lemali" after that create a table called users with 4 columns;
+columns are id,firstName,secondName and message.
